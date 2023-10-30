@@ -70,7 +70,7 @@ export default function Portfolio() {
                       <li><a href="#division4">Resume</a></li>
                   </ul>
 
-                  <img id="scrollImage" src="../media/nav-img.jpeg" alt="Image1"/>
+                  <img id="scrollImage" src="/media/nav-img.jpeg" alt="Image1"/>
                       <div className="content-text">
                           <h5> PRADEEP YADAV</h5>
                           <p>FULLSTACK DEVELOPER</p>
