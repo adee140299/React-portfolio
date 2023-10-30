@@ -1,7 +1,6 @@
 import React, { useEffect, useState } from 'react';
 // import './Style1.css';
 // import './Responsive.css';
-import './media';
 
 export default function Portfolio() {
 
